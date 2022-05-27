@@ -3,6 +3,4 @@ Programación reactiva y funcional: Calendar Sofkau
 
 por:
 
-Jehison Galarza
-Sherilyn Maestre
-Santiago Viana
+Jehison Galarza, Sherilyn Maestre y Santiago Viana
